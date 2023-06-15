@@ -4,15 +4,6 @@
   </head>
   <body>
   <?php
-declare(strict_types=1);
-
-function sayHi(string $firstName): void
-{
-	echo 'Bonjour, ' . $firstName . ' !' . PHP_EOL;
-}
-
-sayHi('John');
-sayHi(12345);
 
 
      ?> 
